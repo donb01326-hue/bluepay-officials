@@ -100,7 +100,7 @@ const BuyBPCPayment = () => {
         <div className="mb-3">
           <p className="text-gray-500 text-xs">Amount</p>
           <div className="flex justify-between items-center">
-            <p className="text-lg font-bold">NGN 6,500</p>
+            <p className="text-lg font-bold">NGN 10,000</p>
             <Button
               variant="default"
               size="sm"
