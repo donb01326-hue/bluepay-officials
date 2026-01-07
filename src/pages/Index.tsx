@@ -118,8 +118,7 @@
 
         <!-- UPDATED IMAGE -->
         <img
-          src="/lovable-uploads/NEW_2026_IMAGE.png"
-          alt="BLUEPAY2026"
+          src="/BLUE PAY 2026"
         />
 
         <h1>Get Your Account Ready And Instantly.</h1>
