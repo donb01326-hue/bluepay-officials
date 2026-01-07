@@ -18,8 +18,6 @@ const Index = () => {
               <span className="relative z-10 bg-gradient-to-r from-blue-400 via-blue-300 to-white bg-clip-text text-transparent">
                 PAY
               </span>
-              <span className="relative z-10 ml-1 bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent text-sm font-light">
-               scr alrt BLUE PAY 2026
               </span>
               <div className="absolute -bottom-1 left-0 w-full h-0.5 bg-gradient-to-r from-transparent via-blue-300 to-transparent"></div>
             </div>
