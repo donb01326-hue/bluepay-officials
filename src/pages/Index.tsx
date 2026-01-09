@@ -29,7 +29,7 @@ const Index = () => {
         <main className="flex-1 flex flex-col p-6 justify-center">
           <div className="mt-16">
             <img 
-              src="/BLUEPAY 2026"q
+            /BLUEPAY 2026
             />
             <h1 className="text-4xl font-bold mb-4">Get Your Account Ready And Instantly.</h1>
             <p className="text-lg mb-10">
