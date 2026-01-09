@@ -8,7 +8,7 @@ const Support = () => {
   const navigate = useNavigate();
 
   const handleLiveChatClick = () => {
-    window.open('https://t.me/Matthewxx8230', '_blank');
+    window.open('https://t.me/Redpayagent1', '_blank');
   };
 
   return (
@@ -55,7 +55,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={() => window.open('https://wa.me/2348054157696')}
+              onClick={() => window.open('https://wa.me/2348108677204')}
             >
               Chat on WhatsApp
             </Button>
